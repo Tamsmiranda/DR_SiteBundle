@@ -1,0 +1,7 @@
+parameters:
+#    doce_raro_site.example.class: DoceRaro\Bundle\SiteBundle\Example
+
+services:
+#    doce_raro_site.example:
+#        class: %doce_raro_site.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
